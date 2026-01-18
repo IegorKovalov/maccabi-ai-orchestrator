@@ -1,0 +1,28 @@
+# LangGraph & LangChain
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-anthropic>=0.2.0
+langchain-community>=0.3.0
+
+# Embeddings & Vector DB
+sentence-transformers>=2.2.0
+pgvector>=0.2.0
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Document Processing
+pypdf>=3.0.0
+python-docx>=1.0.0
+
+# Web UI
+streamlit>=1.32.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Gmail API (from your Part 3)
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-api-python-client>=2.0.0
